@@ -1,2 +1,2 @@
 # go-uni
-Some tasks from the Go course
+This repository contains educational practices of the go language
