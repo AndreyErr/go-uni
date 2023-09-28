@@ -42,7 +42,7 @@ func generateFiles(queue chan *File) {
 		default:
 			fmt.Println("-!->Очередь полна. Ожидание...")
 			queue <- file // Блокировка до того момента, пока место не освободится в очереди
-            fmt.Printf("-->Файл добавлен в очередь: %v\n", file)
+			fmt.Printf("-->Файл добавлен в очередь: %v\n", file)
 		}
 	}
 }
