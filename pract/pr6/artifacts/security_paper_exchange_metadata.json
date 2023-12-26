@@ -1,0 +1,142 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_security_paper_name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_price",
+						"type": "uint256"
+					}
+				],
+				"name": "add_security_paper",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_security_paper_id",
+						"type": "uint256"
+					}
+				],
+				"name": "buy_security_paper",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_security_paper_id",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address payable",
+						"name": "_newOwner",
+						"type": "address"
+					}
+				],
+				"name": "exchange_security_paper_ownership",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_security_paper_id",
+						"type": "uint256"
+					}
+				],
+				"name": "get_security_paper_details",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "total_securities",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract.sol": "security_paper_exchange"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract.sol": {
+			"keccak256": "0x84a5e9b09159702469c94dd4b11281f5d38cfbc3a27f1f9b6ee410587fd1abb5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://29abdb49576c4a3b392716df1feb6ab97bd1f34fa5a512cdea0ef128514b467b",
+				"dweb:/ipfs/QmWGG1KNTy3kqduKHUkVfvRBbTULVZfjns23zx8gQZnsE1"
+			]
+		}
+	},
+	"version": 1
+}

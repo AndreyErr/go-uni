@@ -1,0 +1,3975 @@
+[
+    {
+        "code": "oasirxszz_stageRequest_prc",
+        "description": "Формирование запроса",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "СЗЗ формирование запроса",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpzz_main_pp1_1",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 1-1 Регистрация обращения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp1_2",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 1-2 Внесение информации",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp1_3",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 1-3 Внешние запросы",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp1_4",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 1-4 Внутреннее обращение",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp2",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 2  Подготовка справки и презентации",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp3",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 3 Проведение СС МКА",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp45",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 4 и 5 Комиссии РГ ГЗК и ГЗК",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp6",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 6 Комиссия ГК ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp7",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 7 Подготовка распоряжения Москомархитектуры",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp7_1",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 7.1 Подготовка распоряжения МКА об отмене ранее выпущенного",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-02-14"
+    },
+    {
+        "code": "oasirxpzz_main_pp7_2",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 7.2 Подготовка распоряжения МКА на изменение ранее выпущенного",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-02-14"
+    },
+    {
+        "code": "oasirxszz_stageTask_prc",
+        "description": "Поручение на разработку презентации",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Поручение на разработку презентации",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpzz_main_pp8",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 8 Подготовка уведомления заявителя",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp10",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 10 Подготовка материалов для ППМ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp11",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 11 Проведение антикоррупционной экспертизы",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp12",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 12 Согласование ППМ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp13",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 13 Утверждение ППМ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp14",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 14 Подготовка отказа",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp15",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 15 Приостановка",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp17",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 17 Постановка на кад. учет",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_pp16",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 16 Обработка результатов",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxszz_stagePresentation_prc",
+        "description": "Разработка презентации",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Разработка презентации",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxszz_stageMeeting_prc",
+        "description": "Сбор рабочей группы",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Сбор рабочей группы",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxszz_stageArea_prc",
+        "description": "Работа с зонами воздействия",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Работа с зонами воздействия",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxszz_stageInform_prc",
+        "description": "Информирование заявителя СЗЗ",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Информирование заявителя СЗЗ",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_project_files",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Файлы ПМТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_validate_agree_types_gzk",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Валидация документа - результат",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_validate_agree_types",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Валидация документа - результат",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_agree_ext_pmt1",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Внешнее согласование ПМТ 1",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_agree_ext_pmt2",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Внешнее согласование ПМТ 2",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_agree_ext_pmt3",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Внешнее согласование ПМТ 1",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpkl_main_prepare_conclusion",
+        "docType": "OASIRX_PKL_PKL",
+        "name": "Процесс ПКЛ - Заключение",
+        "subsystem": "OASIRX_PKL",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpmt_main_agree_mka_pmt_in_ext",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование внутри внешних управлений",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_validate_agree_types_mka",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Валидация документа - результат",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_validate_agree_types_ps",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Валидация документа - результат",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_agree_mka_pmt",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование в МКА",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_approve",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Универсальный процесс внутреннего согласования",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_presentation_files",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Файлы презентации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_presentation_files_confirm",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Файлы презентации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_create_rd",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Выпуск РД ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_dgi_pmt",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Утверждение ПМТ в ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_create_pmt2",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка ПМТ 2",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_includes_confirm_check",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Выбор согласующих для стандартного согласования",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_confirm_list",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_confirm_rounds_table",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Таблица согласования c историей",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_eoo_info",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Информация о ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxvri_letter_prc",
+        "description": "Разработка и согласование писем",
+        "docType": "OASIRX_VRI_VRI",
+        "name": "Разработка и согласование писем",
+        "subsystem": "OASIRX_VRI",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_dgi",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование в ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxvri_integration_prc",
+        "description": "Интеграция с сервисами и обработка ошибок",
+        "docType": "OASIRX_VRI_VRI",
+        "name": "Интеграция с сервисами и обработка ошибок",
+        "subsystem": "OASIRX_VRI",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxvri_intro_prc",
+        "description": "Ознкомление с запросом и подготовка ответа по заявлению",
+        "docType": "OASIRX_VRI_VRI",
+        "name": "Ознкомление с запросом и подготовка ответа по заявлению",
+        "subsystem": "OASIRX_VRI",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpzz_includes_base_information",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Основная информация о проекте",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionGkPzz",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии ГК ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_process_commission",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Обработка полученного ответа из системы совещаний по СС МКА и ГК ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionList",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Список прошедших комиссий",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_main_service_order",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Сервисный процесс для обработки сообщения распоряжений",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_confirm_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласований с раундами",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_decision",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Блок решения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_main_send_to_eoo",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Отправка на ЭОО и ожидание решения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_presentation",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о презентации",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_requests",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о запросах",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_includes_all_confirm_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionSsMkaReceive",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии полученная из СС МКА",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionGzk",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии ГЗК",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionRgGzk",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии РГ ГЗК",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionSsMka",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии СС МКА",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_service_eoo",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Сервисный процесс для обработки сообщения ЭОО",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_includes_customerInfo",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о заявителе",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_representativeInfo",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о представителе",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_commissionGkPzzReceive",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о комиссии полученная из ГК ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_create_info",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Создание карточки",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_main_start",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Создание обращения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_includes_requests_nobtn",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Информация о запросах без кнопок",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_main_revoke",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Ознакомление с отзывом",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_includes_review_confirm_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласования приостановки",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-20"
+    },
+    {
+        "code": "oasirxpzz_main_agree_in_dept",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Согласование внутри управлений",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxpzz_main_put_protocol",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Приложить протокол",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_main_integration_status",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Статусы интеграций",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxisogd_main_start",
+        "docType": "OASIRX_ISOGD_ISOGD",
+        "name": "Основной процесс ИСОГД",
+        "subsystem": "OASIRX_ISOGD",
+        "system": "OASIRX",
+        "startDate": "2021-10-19"
+    },
+    {
+        "code": "oasirxisogd_main_correcting",
+        "docType": "OASIRX_ISOGD_ISOGD",
+        "name": "Корректировка (ИСОГД)",
+        "subsystem": "OASIRX_ISOGD",
+        "system": "OASIRX",
+        "startDate": "2021-10-19"
+    },
+    {
+        "code": "oasirxpzz_main_appealing_zouit",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Обращение для ЗОУИТ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "endDate": "2022-02-01",
+        "startDate": "2022-02-01"
+    },
+    {
+        "code": "oasirxpzz_main_edit_info",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "endDate": "2022-02-01",
+        "startDate": "2022-02-01"
+    },
+    {
+        "code": "oasirxpzz_main_pp1",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 1 Регистрация обращения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxisogd_main_geoanalytic",
+        "docType": "OASIRX_ISOGD_ISOGD",
+        "name": "Установка связи Геоаналитик (ИСОГД)",
+        "subsystem": "OASIRX_ISOGD",
+        "system": "OASIRX",
+        "startDate": "2021-10-19"
+    },
+    {
+        "code": "oasirxpzz_main_pp9",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 9 ПС\\ЭОО",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpmt_main_pmt_confirmed",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Закрытие работ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_gzk",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование на ГЗК",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_in_ext",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование внутри внешних управлений",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_ext_agree_result_table",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_agree_pmt",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование с правовым управлением",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpzz_main_edit_full",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Редактировать все поля ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "endDate": "2022-02-01",
+        "startDate": "2022-02-01"
+    },
+    {
+        "code": "oasirxpzz_main_br_request_info",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Запросы БР и ГИН",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxeoo_main_vote_executor_select",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Назначение исполнителей по голосам от согласующего управления",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-11-12"
+    },
+    {
+        "code": "oasirxeoo_main_vote_executors_mka",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Определение исполнителей и согласующих для предложений в МКА",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-11-12"
+    },
+    {
+        "code": "oasirxpmt_main_check_redline",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Проверка плана красных линий",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_create_pmt1",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка ПМТ 1",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_inform_customer",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информирование заявителя",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_order_pmt",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Поручение для разработки ПМТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpzz_main_pp15_restart",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 15 Возобновление",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2021-09-28"
+    },
+    {
+        "code": "oasirxeoo_includes_decision_block",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Универсальный блок принятия решения в управлении",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_confirm_decision_gzk",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Согласовать проект решения ГЗК",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxpmt_main_start_manual_prc",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Межевание территорий",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_mka",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование презентации в МКА",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_includes_eoo_info_start",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Информация о ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_files",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Материалы для ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_info_deleted",
+        "description": "Блок просмотра/редактирования информации о ПМТ",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о ПМТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "DEMO",
+        "startDate": "2020-04-14"
+    },
+    {
+        "code": "oasirxeoo_main_dgi_start",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Подготовка материалов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_includes_files_view",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Материалы для ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxelma_stage_prc",
+        "docType": "OASIRX_ELMA_ELMA",
+        "name": "Процесс ЭЛМА",
+        "subsystem": "OASIRX_ELMA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_start",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Межевание территорий",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxelma_stageEDO_prc",
+        "docType": "OASIRX_ELMA_EDO",
+        "name": "Процесс ЭЛМА - ЭДО",
+        "subsystem": "OASIRX_ELMA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_mka2",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование в МКА",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxelma_stageEndEDO_prc",
+        "docType": "OASIRX_ELMA_EDO",
+        "name": "Процесс ЭЛМА - Отправка в ЭДО",
+        "subsystem": "OASIRX_ELMA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_includes_protocol",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Материалы для ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_protocol_all",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Материалы для ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxspritcs_main_vp1",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ВП1 Согласование внутри управлений ",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-12-17"
+    },
+    {
+        "code": "oasirxeoo_includes_rg_decision",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Повестка РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxpmt_review_dgi_concurrent_answer",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Ознакомится с ответом ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_prefect_in_ext",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование внутри внешних управлений",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_create1",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка границ и презентации 1",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_create2",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка границ и презентации 2",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_customer",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование с заявителем",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_order",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Поручение для разработки презентации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_public_hearings_process_eoo",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Процесс по направлению на публичные слушания",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_public_hearings_process_ps",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Процесс по направлению на публичные слушания",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_request_dgird",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Запрос в ДГИ о выпуске РД",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_includes_rg_notification",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Повестка РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_rg_offlineExposition",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Повестка РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_vote_info",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Создание голоса/предложения",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_vote_task",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Обновляемые поля предложения",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxpmt_test_include",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Запрос в ДГИ - тест",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_test",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Процесс по ведению реестра заявок (тест)",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_test_goto",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка границ и презентации  - тест",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_pzz",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Ожидание изменений в ПЗЗ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_prefect",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование в префектуре",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_agree_rggzk",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Согласование на РГ ГЗК",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_confirmed",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Заключение о выполненных работах",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_present_create5",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Разработка границ и презентации 5",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_public_hearings_prepare",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Процесс по направлению на публичные слушания",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_request_dgi",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Запрос в ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpzz_main_pp18",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП 18 Техническая правка",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-19"
+    },
+    {
+        "code": "oasirxpmt_terminate",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Признание нецелесообразности",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_public_hearings_process",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Процесс по направлению на публичные слушания",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_vote_agree_dept",
+        "docType": "OASIRX_EOO_VOTE",
+        "name": "Согласование голосов внутри управлений",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-12-14"
+    },
+    {
+        "code": "oasirxeoo_includes_rg_agenda",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Повестка РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxcrd_main_start",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Создание Согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2020-10-16"
+    },
+    {
+        "code": "oasirxeoo_rg_start",
+        "docType": "OASIRX_EOO_RG",
+        "name": "РГ в ДТОИВ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxcrd_main_confirmation",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Согласовать Согласование",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2020-10-16"
+    },
+    {
+        "code": "oasirxelma_stageReview_prc",
+        "docType": "OASIRX_ELMA_ELMA",
+        "name": "Процесс ЭЛМА - Рассмотрение",
+        "subsystem": "OASIRX_ELMA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxelma_stageAdjust_prc",
+        "docType": "OASIRX_ELMA_ELMA",
+        "name": "Процесс ЭЛМА - Снятие замечаний",
+        "subsystem": "OASIRX_ELMA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxszz_stageAreaTermination_prc",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Прекращение зоны на выполненном объеме",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxszz_stageDocumentTermination_prc",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Прекращение заявки на выполненном объеме",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpzz_main_reworkMaterials",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Доработка справки и презентации",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-27"
+    },
+    {
+        "code": "oasirxpzz_edit_full",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Полное редактирование документа",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_includes_commission_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица комиссий",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_main_repeatCommission",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Пройти комиссию повторно",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_includes_confirm_table_in_dept",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласования в управлениях",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_main_send_to_egip",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Отправка в ЕГИП",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-30"
+    },
+    {
+        "code": "oasirxpzz_edit_info",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Редактирование карточки ПЗЗ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_main_enter_result_rd",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Ожидание подписанного распоряжения",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_main_base_info_commissions",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Основная информация о решении комиссии",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-31"
+    },
+    {
+        "code": "oasirxpzz_main_appealing",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Обращение",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_main_topographicErrors",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Топографические ошибки",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_print_statement",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Распечатать выписку",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxpzz_unite_cards",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Объединение карточек",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-01-28"
+    },
+    {
+        "code": "oasirxviolation_main_approve_def_ext_time",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Подпроцесс согласования определения о продлении срока административного расследования с начальниками мониторинга и управления МГУ",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxvri_intro_approved_prc",
+        "docType": "OASIRX_VRI_VRI",
+        "name": "Ознкомление с запросом и подготовка ответа по заявлению",
+        "subsystem": "OASIRX_VRI",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxvri_letter_approved_prc",
+        "docType": "OASIRX_VRI_VRI",
+        "name": "Ознкомление с запросом и подготовка ответа по заявлению",
+        "subsystem": "OASIRX_VRI",
+        "system": "OASIRX",
+        "startDate": "2021-08-18"
+    },
+    {
+        "code": "oasirxpmt_main_request_dgi_pmt",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Заключения о выполнении работ по разработке проекта межевания",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_workspace",
+        "docType": "OASIRX_EOO_WORKSPACE",
+        "name": "Обработать предложения",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpmt_terminate2",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Прекращение на выполненном объеме",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_main_alert_people",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Подготовка оповещения граждан",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-12-14"
+    },
+    {
+        "code": "oasirxeoo_main_agree_in_dept",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Согласование внутри управлений",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_agree_protocol",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Согласование протокола на ГК",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_create_content",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Подготовка материалов внутри подведа",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_start",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Подготовка материалов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_confirm_standard",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Согласование внутри управлений",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_dates",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Рабочее пространство пользователя",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxgzk_includes_card_information",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Основная информация о проекте",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxeoo_main_edit_full",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Редактировать все поля ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxgzk_edit_info",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Редактирование карточки Вопроса",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxgzk_includes_all_confirm_table",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-23"
+    },
+    {
+        "code": "oasirxeoo_main_gk",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "ГК",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_edit_info",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Редактирование карточки ЭОО",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_placing",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Размещение",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_processing_rg",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Служебный процесс для движения ЭОО в РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxviolation_petition",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Процесс \"Ходатайство\"",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_start_auto",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Создание карточки нарушения  автоматически",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxgzk_includes_meeting_main_info",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Основная информация о проекте",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxgzk_includes_card_meeting_questions",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Повестка ГЗК",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxeoo_main_rg_eoo_choose",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Рабочая группа в ДТОИВ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_vote_executors",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Определение исполнителей и согласующих для предложений",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_protocol_prepare",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Подготовка протокола",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_vote_exposition",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Обработка голосов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_gzk_gk",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "ГЗК",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_public_placing",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Оповещение граждан",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxeoo_main_vote_processing",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Обработка голосов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxgzk_includes_create_info",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Создание карточки",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxgzk_main_fgmModel",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Подпроцесс построения модели и материалов ФГМ",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxgzk_main_formMkaAgenda",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Подпроцесс формирования и согласования повестки МКА",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxeoo_rg_edit",
+        "docType": "OASIRX_EOO_RG",
+        "name": "Редактирование карточки РГ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxgzk_includes_create_meeting",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Создание заседания",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxgzk_main_fgmMaterials",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Материалы для ФГМ",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxgzk_edit_meeting_info",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Редактирование карточки Заседания",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxeoo_main_publish_result",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Размещение результатов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-12-14"
+    },
+    {
+        "code": "oasirxgzk_includes_decision",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Блок решения",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxgzk_meeting_gzkConfirm",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Согласование в МКА",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxgzk_main_start",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Основной процесс ГЗК",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxgzk_gzk_submitQuestion",
+        "docType": "OASIRX_GZK_GZK",
+        "name": "Экстренное (внеплановое) внесение вопроса ГЗК по вопросам МКА",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-04-12"
+    },
+    {
+        "code": "oasirxgzk_meeting_start",
+        "docType": "OASIRX_GZK_MEETING",
+        "name": "Основной процесс Заседания",
+        "subsystem": "OASIRX_GZK",
+        "system": "OASIRX",
+        "startDate": "2022-03-14"
+    },
+    {
+        "code": "oasirxeoo_vote_process_podved",
+        "docType": "OASIRX_EOO_VOTE",
+        "name": "Старт обработки голосов разработчиком",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-12-14"
+    },
+    {
+        "code": "oasirxeoo_vote_prepare_answer",
+        "docType": "OASIRX_EOO_VOTE",
+        "name": "Обработка голосов",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpzz_main_pp7_rework",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Доработка распоряжения МКА",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-04-28"
+    },
+    {
+        "code": "oasirxsb_gzk",
+        "description": "My test proc",
+        "docType": "OASIRX_SB_SB",
+        "name": "My test proc",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "endDate": "2020-11-11",
+        "startDate": "2020-11-11"
+    },
+    {
+        "code": "oasirxpkl_main_start",
+        "docType": "OASIRX_PKL_PKL",
+        "name": "Процесс ПКЛ",
+        "subsystem": "OASIRX_PKL",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpkl_main_department_conclusion",
+        "docType": "OASIRX_PKL_PKL",
+        "name": "Процесс ПКЛ - Профильные управления",
+        "subsystem": "OASIRX_PKL",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpmt_main_work_in_suborg",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Работа в подведомственной организации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_main_rework_in_suborg",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Доработка в подведомственной организации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxspritcs_main_start",
+        "docType": "OASIRX_SPRITCS_SPRITCS",
+        "name": "Создание поручения",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-02-10"
+    },
+    {
+        "code": "oasirxspritcs_rcha_pp2",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ПП 2 Разработка РЧА в подведе",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-03-04"
+    },
+    {
+        "code": "oasirxspritcs_main_vp3",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ВП 3 Согласование (без Исполнителя)",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-05-11"
+    },
+    {
+        "code": "oasirxspritcs_main_vp22",
+        "docType": "OASIRX_SPRITCS_SPRITCS",
+        "name": "ВП 2 Согласование (c исполнителем) ",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "endDate": "2022-05-11",
+        "startDate": "2022-05-11"
+    },
+    {
+        "code": "oasirxspritcs_rcha_pp3",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ПП 3 Разработка РЧА в УЛГР",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-03-24"
+    },
+    {
+        "code": "oasirxspritcs_main_confirm",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "Согласование согласующим",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-03-26"
+    },
+    {
+        "code": "oasirxspritcs_main_spritcs_vp3",
+        "docType": "OASIRX_SPRITCS_SPRITCS",
+        "name": "ВП 3 Согласование (без Исполнителя)",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-05-11"
+    },
+    {
+        "code": "oasirxspritcs_main_vp2",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ВП 2 Согласование (c исполнителем) ",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-05-11"
+    },
+    {
+        "code": "oasirxfcd_main_start",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Процесс Фасады",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2021-04-07"
+    },
+    {
+        "code": "oasirxfcd_main_confirm_glavapu",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Рассмотрение в ГлавАПУ",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2021-04-07"
+    },
+    {
+        "code": "oasirxfcd_main_agree_in_glavapu",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Согласование в ГлавАПУ",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2021-04-07"
+    },
+    {
+        "code": "oasirxfcd_main_agree_in_dkn",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Согласование в ДКН",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2021-04-07"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_with_eoo",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxsb_gzk_start",
+        "docType": "OASIRX_SB_SB",
+        "name": "Самострой ГЗК",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxsb_main_confirm",
+        "docType": "OASIRX_SB_SB",
+        "name": "Самострой Согласование",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxsb_main_start",
+        "docType": "OASIRX_SB_SB",
+        "name": "Самострой Создание",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxsb_main_view_conclusions",
+        "docType": "OASIRX_SB_SB",
+        "name": "Самострой Заключения",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxsb_mgk_start",
+        "docType": "OASIRX_SB_SB",
+        "name": "Самострой МГК",
+        "subsystem": "OASIRX_SB",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxviolation_violation_prc",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Нарушение ОГД",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_prot_notify",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Согласовать уведомление о времени и месте составления протокола",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_refuse_recheck",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Согласование отказа в возбуждении дела об АП",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_start_manual",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Создание карточки нарушения вручную",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_terminate",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Процесс формирования постановления о прекращении производства по делу",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_terminate_approve",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Процесс согласования постановления о прекращении производства по делу",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_send_protocol_notify",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Отправка уведомления о составлении протокола в подразделение МКА или во вне [5]",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_recheck_violation",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Проверить состав и признаки нарушения",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_protocol_and_notify",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Сформировать уведомление о составлении протокола и сформировать проект протокола и дела [4]",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_proceeding",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Мониторинг процесса рассмотрения дела в суде [8]",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_confirm_violation",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Проверка факта административного нарушения",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_case_formation",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Формирование судебного дела [7]",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_refuse",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Согласование отказа в возбуждении дела об АП",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_investigation",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Административное расследование",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_request",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Подпроцесс согласования решения с начальниками мониторинга и управления МГУ",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_make_request",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Формирование запроса по делу об АП",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_create_protocol",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Составление протокола",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_protocol",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Согласовать проект протокола и дела",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_court_positive",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Обработка решения суда [9]",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_check_by_it_dep",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Проверка в УИТ",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_notify_proc",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Подпроцесс согласования уведомления о вызове на определение о возбуждении",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_notify_ext_time",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Подпроцесс согласования уведомления о продлении срока административного расследования с начальниками мониторинга и управления МГУ",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_documents",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Согласовать пакет документов для подачи в суд",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxviolation_main_approve_def_proceeding",
+        "docType": "OASIRX_VIOLATION_VIOLATION",
+        "name": "Подпроцесс согласования определения о возбуждении дела с начальниками мониторинга и управления МГУ",
+        "subsystem": "OASIRX_VIOLATION",
+        "system": "OASIRX",
+        "startDate": "2021-06-24"
+    },
+    {
+        "code": "oasirxspritcs_rcha_pp4",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ПП 4 Согласование РЧА",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-08-12"
+    },
+    {
+        "code": "oasirxspritcs_rcha_pp5",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ПП 5 Обработка результатов согласования РЧА",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-08-12"
+    },
+    {
+        "code": "oasirxspritcs_rcha_pp6",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ПП 6 БД СПРИТ",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-08-12"
+    },
+    {
+        "code": "oasirxspritcs_main_vp5",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ВП 5 Изменение",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-08-12"
+    },
+    {
+        "code": "oasirxspritcs_main_vp4",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "ВП 4 Обработка результатов",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2021-11-22"
+    },
+    {
+        "code": "oasirxfcd_main_cancellation",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Аннулирование",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_main_edit_info",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_main_integration_status",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Статусы интеграций",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_print_statement",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Распечатать выписку",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_main_send_isogd",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Зарегистрировать в ИСОГД",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_appealing",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Обращение",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_confirm_table",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Шаблон для таблицы согласования",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_create_info",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Общая информация",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_dkn_confirm_table",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Шаблон для таблицы согласования ДКН",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_information",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Заявление",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_request_status",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Запрос",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxfcd_includes_sro_edit",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Заполнение СРО",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2022-07-13"
+    },
+    {
+        "code": "oasirxgpzu_main_start",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Создание заявки",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2022-09-13"
+    },
+    {
+        "code": "oasirxgpzu_includes_create_info",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Общая информация",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2022-09-13"
+    },
+    {
+        "code": "oasirxgpzu_includes_preparation",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Таблицы",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2022-10-04"
+    },
+    {
+        "code": "oasirxisogd_request_main_start",
+        "docType": "OASIRX_ISOGD_REQUEST",
+        "name": "Запрос сведений (ИСОГД)",
+        "subsystem": "OASIRX_ISOGD",
+        "system": "OASIRX",
+        "startDate": "2022-10-31"
+    },
+    {
+        "code": "oasirxpzz_main_pp7_pp8_isogd",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "ПП7, ПП8 и отправка в ИСОГД",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxpzz_adm_order_approval_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxpzz_includes_restrict",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Блок поиска пересечений со сведениями о ЗУ",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxpzz_includes_cadastr_files_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица комиссий",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxpzz_includes_ais_confirm_table",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxpzz_Libs",
+        "docType": "OASIRX_PZZ_PZZ",
+        "name": "Библиотеки проекта Административные нарушения ОГД",
+        "subsystem": "OASIRX_PZZ",
+        "system": "OASIRX",
+        "startDate": "2022-11-08"
+    },
+    {
+        "code": "oasirxisogd_workspace",
+        "docType": "OASIRX_ISOGD_WORKSPACE",
+        "name": "Регистрация в ГИС ОГД",
+        "subsystem": "OASIRX_ISOGD",
+        "system": "OASIRX",
+        "startDate": "2022-12-01"
+    },
+    {
+        "code": "oasirxspritcs_main_edo",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "Согласование РЧА внешним согласующим",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-12-28"
+    },
+    {
+        "code": "oasirxspritcs_main_familiarize2",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "Ознакомление с результатами рассмотрения внешним согласующим",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-12-28"
+    },
+    {
+        "code": "oasirxspritcs_main_put_protocol",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "Загрузить протокол РГ",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-12-28"
+    },
+    {
+        "code": "oasirxspritcs_main_familiarize",
+        "docType": "OASIRX_SPRITCS_RCHA",
+        "name": "Ознакомиться с результатом рассмотрения",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-12-28"
+    },
+    {
+        "code": "oasirxspritcs_main_add_rcha",
+        "docType": "OASIRX_SPRITCS_SPRITCS",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_SPRITCS",
+        "system": "OASIRX",
+        "startDate": "2022-12-28"
+    },
+    {
+        "code": "oasirxcrd_edit_info",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_answers",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_answers_new",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_common_dates",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Общий срок согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_confirm_blocks_edit",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_edit_info_form",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_header",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_header_task",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_information",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_last_block_edit",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_local_conclusion_list",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Шаблон таблицы результатов согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_result_table",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Таблица согласований с раундами",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_start_form",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_start_form_common",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_start_form_new",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_start_form_template",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_includes_statistic",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_confirmation_block",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Блок сложного согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_confirmation_new",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_confirmer_edit",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_multi_confirmation",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_multi_confirmation_executor",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxcrd_main_start_template",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Создание согласования по шаблону",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-03-06"
+    },
+    {
+        "code": "oasirxfcd_main_finish_notification",
+        "docType": "OASIRX_FCD_FCD",
+        "name": "Уведомление о завершении задач",
+        "subsystem": "OASIRX_FCD",
+        "system": "OASIRX",
+        "startDate": "2023-03-29"
+    },
+    {
+        "code": "oasirxppt_Libs",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Библиотеки проекта Согласование",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_edit_info",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_answers",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Вопросы - старый процесс",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_answers_new",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Вопросы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_common_dates",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Общий срок согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_confirm_blocks_edit",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_edit_info_form",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_header_task",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_header",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_information",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация - старая версия",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_local_conclusion_list",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Шаблон таблицы результатов согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_result_table",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Таблица согласований с раундами",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_start_form",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Старая версия процесса",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_start_form_new",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_start_form_template",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_statistic",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_confirmation",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование подпроцесс - старый процесс",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_confirmation_block",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок сложного согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_confirmation_new",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_confirmer_edit",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_crd",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Раунд согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_crd_edit",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Создание",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_multi_confirmation",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_multi_confirmation_executor",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_main_start",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Создание",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_edit_script",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование набора этапов",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_ais_confirm_table",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_all_confirm_table",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_card_information",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Основная информация о проекте",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_change_in_order",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Поля блока изменение в распоряжение",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_chapterFiles",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок решения",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_decision",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок решения",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_includes_present_decision_info",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок проекта решения по презентации",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_agreeAnticorRefFile",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование справки о проведении антикоррупционной экспертизы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_dept",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Согласование внутри управления",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_subOrg",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Работа внути подведа",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_confirm_ppm",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование ППМ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_edit_tz",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Изменения в ТЗ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_integration_status",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Статусы интеграций",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_isogd_ppm_send",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка ППМ в ИСОГД",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_original_materials",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП Исходные материалы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_other_commission",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Прочие рассмотрения",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp11",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 11  Проведение антикоррупционной экспертизы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp15",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 15 Приостановка",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp15_restart",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 15 Возобновление процесса",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp15_single",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 15 Приостановка или прекращение одного процесса",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp2_assignment",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 2  Поручение",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp2_present",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 2 Подготовка презентации",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp3",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 3 Согласование",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp5",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 5. СС МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp6",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 6. РГ ГЗК",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp7",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 7. Подготовка распоряжения Москомархитектуры",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp7_prepare_materials",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 7. Подготовка материалов",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp8",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП 8. Подготовка Технического задания",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_pp9",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Заглушка",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_project_manage",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Управление проектом",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_send_to_apgr",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка данных в АПГР",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_send_to_egip",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка в ЕГИП",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_send_to_pkl",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка данных в ПКЛ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_send_to_pzz",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка данных в ПЗЗ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_main_start",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Основной процесс ППТ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_crd_includes_start_form_common",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Общая информация стартовой формы и формы редактирования согласования",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-04-29"
+    },
+    {
+        "code": "oasirxppt_edit_info",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование карточки ППТ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxgpzu_crd_edit_info",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxcrd_Libs",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Библиотеки проекта Согласование",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-05-31"
+    },
+    {
+        "code": "oasirxcrd_main_start_old",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Создание Согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-05-31"
+    },
+    {
+        "code": "oasirxcrd_main_test",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Согласование тест",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-05-31"
+    },
+    {
+        "code": "oasirxcrd_main_crd_edit",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Редактирование согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-05-31"
+    },
+    {
+        "code": "oasirxcrd_main_crd",
+        "docType": "OASIRX_CRD_CRD",
+        "name": "Создание согласования",
+        "subsystem": "OASIRX_CRD",
+        "system": "OASIRX",
+        "startDate": "2023-05-31"
+    },
+    {
+        "code": "oasirxgpzu_main_send_to_ssMka",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Проведение СС МКА",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-01"
+    },
+    {
+        "code": "oasirxgpzu_Libs",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Библиотеки проекта Согласование",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-01"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_confirm_blocks_edit",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_crd",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Раунд согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_includes_commissionSsMka",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Информация о комиссии СС МКА",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_commissionSsMkaReceive",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Информация о комиссии полученная из СС МКА",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_confirm_table",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Таблица согласований с раундами",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_information",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Заявление",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_intersections",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Таблицах пересечения данных",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_rejection",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Согласование отказа",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_includes_request_status",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Запрос",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_as_contract",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Запрос в АС договор",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_checking_sections",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Таблица согласования (Отказы)",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_cut_tstp",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "ЦТП",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_edit_info",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Редактирование карточки",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_integration_status",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Статусы интеграций",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_network_holders_ns_moek",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "МОЭК",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_network_holders_ns_mptc",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "МПТЦ",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_network_holders_ns_vodokanal",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Мосводоканал",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_network_holders_ns_vodostok",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Мосводосток",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_network_holders_smart",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Мосгаз ",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_send_isogd",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Зарегистрировать в ИСОГД",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_send_to_egip",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Отправка в ЕГИП",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_main_send_to_gin",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "отправка в ГИН",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_print_statement",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Распечатать выписку",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_process_commission",
+        "docType": "OASIRX_GPZU_GPZU",
+        "name": "Обработка полученного ответа из системы совещаний по СС МКА",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-06-02"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_confirmation_new",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_answers",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Вопросы",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_answers_new",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Вопросы (Согласование)",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_common_dates",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Общий срок согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_edit_info_form",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_header",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_header_task",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация ОСС",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_information",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация - старая версия",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_local_conclusion_list",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Шаблон таблицы результатов согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_result_table",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Таблица согласований с раундами",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_start_form",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Старая версия процесса",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_start_form_common",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Общая информация стартовой формы и формы редактирования согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_start_form_new",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Стартовая форма согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_start_form_template",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_includes_statistic",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Информация об ОСС",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_confirmation",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Согласование подпроцесс - старый процесс",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_confirmation_block.",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Блок сложного согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_confirmer_edit",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Редактирование согласования ",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_crd_edit",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Создание",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_crd.bpmn",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Раунд согласования",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_multi_confirmation",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_multi_confirmation_executor",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Согласование подпроцесс",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxgpzu_crd_main_start",
+        "docType": "OASIRX_GPZU_CRD",
+        "name": "Создание",
+        "subsystem": "OASIRX_GPZU",
+        "system": "OASIRX",
+        "startDate": "2023-11-29"
+    },
+    {
+        "code": "oasirxppt_includes_agree_in_suborg_part",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок таблицы материалов для согласования в подведе",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_commissionSsMka",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация о комиссии СС МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_commissionSsMkaReceive",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Информация о комиссии полученная из СС МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_conclusion_materials",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок материалов для заключения",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_start",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Основной блок стартовой формы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_teps",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Блок для работы с ТЭП",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_includes_uit_materials_confirm_table",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Таблица согласования при рассмотрении",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_crd_includes_addition_documents",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование блока дополнительных документов и ссылок",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_crd_includes_documents",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование блока документов и ссылок",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_crd_includes_documents_view",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "просмотр блока документов и ссылок",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_edit_tep",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Редактирование ТЭП",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_approval_layers_in_uit",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование утверждаемой части в УИТ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_subOrg_divruk",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Согласование начальником мастерской подведа",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_subOrg_exec",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Согласование исполнителем подведа",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_subOrg_mka",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Согласование исполнителем МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_in_subOrg_ruk",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП. Согласование зам.преда подведа",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_reason_mka",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование обосновывающих материалов в МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_reason_oiv",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование обосновывающих в ОИВах",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_reason_oiv_by_crd",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование ОИВ через СД",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_agree_reason_oiv_by_edo",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Согласование ОИВ через ЭДО",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_conclusion",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП Заключение",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_finished_process",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Заглушка",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_original_materials2",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "ПП Исходные материалы",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_prepear_origin_materials_not_smart",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Подготовка материалов в ОИВ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_prepear_origin_materials_oiv",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Подготовка материалов в ОИВ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_send_to_archive",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка в Архив",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_send_to_spritcs",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Отправка данных в СПРИТ",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_split_project",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Разделение проектов",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_main_terminate_work",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Прекращение на выполненном объеме",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxppt_process_commission",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Обработка полученного ответа из системы совещаний по СС МКА",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "demo_Demo_prc",
+        "docType": "DEMO_DEMO_DEMO",
+        "name": "Демо",
+        "subsystem": "DEMO_DEMO",
+        "system": "DEMO",
+        "startDate": "2019-03-04"
+    },
+    {
+        "code": "oasirxppt_project_union",
+        "docType": "OASIRX_PPT_PPT",
+        "name": "Объединение проектов",
+        "subsystem": "OASIRX_PPT",
+        "system": "OASIRX",
+        "startDate": "2023-10-30"
+    },
+    {
+        "code": "oasirxszz_stageAreaSub_prc",
+        "docType": "OASIRX_SZZ_SZZ",
+        "name": "Работа с зонами воздействия",
+        "subsystem": "OASIRX_SZZ",
+        "system": "OASIRX",
+        "endDate": "2019-10-21",
+        "startDate": "2019-10-21"
+    },
+    {
+        "code": "oasirxeoo_vote_start",
+        "docType": "OASIRX_EOO_VOTE",
+        "name": "Обработка голосов с МКА",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxitmka_proposalApprovementFlow_prc",
+        "docType": "OASIRX_ITMKA_PROPOSAL",
+        "name": "Процесс по заявке на доработку",
+        "subsystem": "OASIRX_ITMKA",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxhearings_hearingsMainFlow_prc",
+        "docType": "OASIRX_HEARINGS_HEARING",
+        "name": "Публичные слушания",
+        "subsystem": "OASIRX_HEARINGS",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_edit_full",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Полное редактирование документа",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_edit_info",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Редактирование карточки ПМТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_with_order",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_pmt_conf",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_standard",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_with_ps",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_rounds_list",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxsprit_stage_prc",
+        "description": "СПРИТ",
+        "docType": "OASIRX_SPRIT_SPRIT",
+        "name": "Выдача сведений из СПРИТ",
+        "subsystem": "OASIRX_SPRIT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_includes_confirm_list_full",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxeoo_includes_check_list",
+        "docType": "OASIRX_EOO_EOO",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "endDate": "2020-06-23",
+        "startDate": "2020-06-23"
+    },
+    {
+        "code": "oasirxpmt_includes_debug_dgi_request",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Отладочная/служебная информация о запросе в ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxeoo_vote_test",
+        "docType": "OASIRX_EOO_VOTE",
+        "name": "Создание голоса/предложения",
+        "subsystem": "OASIRX_EOO",
+        "system": "OASIRX",
+        "startDate": "2021-05-04"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_present_agree_result_table",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_prefect",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_file_with_ps_eoo",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_confirm_text_request",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_debug_dgi_response",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Отладочная/служебная информация о запросе в ДГИ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_ext_agree_list",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Таблица с результатами согласования",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_info",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Информация о МТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_presentation_files_sign",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Файлы презентации",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    },
+    {
+        "code": "oasirxpmt_includes_pmt_project_files_false",
+        "docType": "OASIRX_PMT_PMT",
+        "name": "Файлы ПМТ",
+        "subsystem": "OASIRX_PMT",
+        "system": "OASIRX",
+        "startDate": "2021-08-25"
+    }
+]

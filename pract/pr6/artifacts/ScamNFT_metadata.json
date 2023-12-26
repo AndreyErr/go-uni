@@ -1,0 +1,153 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "NFT_by_No",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "NFTid",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "NFTname",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "cost",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address payable",
+						"name": "seller",
+						"type": "address"
+					},
+					{
+						"internalType": "address payable",
+						"name": "buyer",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_NFTname",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_NFTaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_cost",
+						"type": "uint256"
+					}
+				],
+				"name": "addNFT",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "buyNFT",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "displayNFTAddress",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "no_of_NFTs",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract.sol": "ScamNFT"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract.sol": {
+			"keccak256": "0x631b6f5ebb5a91bcf9b3684a8114455df6c05de5b3d648bd5f5505a6908e3068",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://20b6ffec8eee73d8996668948995bc4c6ec1479819f75085b72bee5a417a7138",
+				"dweb:/ipfs/QmWUqGYPgFyeUFEPPykYv3ZQab7qs5z7g9dzj4sLjmJBpm"
+			]
+		}
+	},
+	"version": 1
+}

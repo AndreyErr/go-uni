@@ -1,0 +1,27 @@
+{
+  "hidefiles.configurationType": "local",
+  "hidefiles.globalConfig": {
+    "profiles": [
+      {
+        "name": "Hide",
+        "detail": "",
+        "description": "Test",
+        "hidden": [
+          // ".vscode/",
+          "**/go.sum",
+          "**/go.work.sum"
+        ]
+      },
+    ]
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/go.sum": true,
+    "**/go.work.sum": true
+  },
+  "hidefiles.selectedProfile": "Hide"
+}

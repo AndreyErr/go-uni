@@ -1,0 +1,59 @@
+version: '3'
+services:
+  app1:
+    depends_on:
+      - proxy
+    environment:
+      - SERVER_NAME=app1
+    hostname: app1
+    restart: on-failure
+    build:
+      context: ./server
+      dockerfile: server.dockerfile
+    volumes:
+      - ./files:/app/data
+  app2:
+    depends_on:
+      - proxy
+    environment:
+      - SERVER_NAME=app2
+    hostname: app2
+    restart: on-failure
+    build:
+      context: ./server
+      dockerfile: server.dockerfile
+    volumes:
+      - ./files:/app/data
+  app3:
+    depends_on:
+      - proxy
+    environment:
+      - SERVER_NAME=app3
+    hostname: app3
+    restart: on-failure
+    build:
+      context: ./server
+      dockerfile: server.dockerfile
+    volumes:
+      - ./files:/app/data
+  app4:
+    depends_on:
+      - proxy
+    environment:
+      - SERVER_NAME=app4
+    hostname: app4
+    restart: on-failure
+    build:
+      context: ./server
+      dockerfile: server.dockerfile
+    volumes:
+      - ./files:/app/data
+  proxy:
+    image: nginx:alpine
+    hostname: nginx
+    restart: on-failure
+    ports:
+    - '80:80'
+    volumes:
+    - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro # ReadOnly
+

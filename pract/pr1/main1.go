@@ -7,24 +7,6 @@ import (
 	"time"
 )
 
-// Сумма через 1 бит (работает некорректно)
-// func concurrentSum(arr []int) int {
-// 	sum := 0
-// 	var wg sync.WaitGroup
-
-// 	for _, val := range arr {
-// 		wg.Add(1)
-// 		go func(v int) {
-// 			defer wg.Done()
-// 			sum += v
-// 			time.Sleep(1 * time.Millisecond)
-// 		}(val)
-// 	}
-
-// 	wg.Wait()
-// 	return sum
-// }
-
 // Последовательная сумма
 func sequentialSum(arr []int) int {
 	sum := 0
@@ -67,8 +49,6 @@ func concurrentSumGur(arr []int) int {
 	return totalSum
 }
 
-
-
 func main() {
 	arrs := 100
 	arr := make([]int, arrs)
@@ -80,17 +60,6 @@ func main() {
 	result := sequentialSum(arr)
 	endTime := time.Since(startTime)
 	fmt.Printf("Последовательно: Сумма = %d, Время выполнения = %v\n", result, endTime)
-
-	// Пример некорректной работы
-	// startTime = time.Now()
-	// result = concurrentSum(arr)
-	// endTime = time.Since(startTime)
-	// fmt.Printf("С использованием горутин 1 попытка: Сумма = %d, Время выполнения = %v\n", result, endTime)
-
-	// startTime = time.Now()
-	// result = concurrentSum(arr)
-	// endTime = time.Since(startTime)
-	// fmt.Printf("С использованием горутин 2 попытка: Сумма = %d, Время выполнения = %v\n", result, endTime)
 
 	startTime = time.Now()
 	result = concurrentSumGur(arr)

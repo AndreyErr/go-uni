@@ -14,7 +14,7 @@ func main(){
         return
     }
 
-
+	// контрольная сумма CRC
 
     var checksum uint16 = 0xFFFF // Инициализируем контрольную сумму
 	for _, b := range data { // Для каждого байта
@@ -31,6 +31,7 @@ func main(){
 		}
 	}
 
-    fmt.Printf("16-битная контрольная сумма: %d \n", checksum)
+    fmt.Printf("контрольная сумма: %d \n", checksum)
+	fmt.Printf("16-битная контрольная сумма: %04X \n", checksum)
 
 }

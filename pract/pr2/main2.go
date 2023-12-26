@@ -18,7 +18,7 @@ func main() {
 	runtime.ReadMemStats(&mem)
 	fmt.Printf("Затраты памяти начальные: %d bytes\n", mem.Alloc)
 
-    // 1 СПОСОБ
+    // 1 СПОСОБ FileInput
 	start := time.Now()
 	copyFileDest := "copyDir/tekst1.txt"
 	readText, err := ioutil.ReadFile(copyFile)
@@ -32,12 +32,12 @@ func main() {
         return
     }
 	duration := time.Since(start).Seconds()
-	fmt.Printf("Время выполнения 1 способа: %f секунд\n", duration)
+	fmt.Printf("Время выполнения FileInput: %f секунд\n", duration)
 
 	runtime.ReadMemStats(&mem)
-	fmt.Printf("Затраты памяти для  1 способа: %d bytes\n", mem.Alloc)
+	fmt.Printf("Затраты памяти для FileInput: %d bytes\n", mem.Alloc)
 
-    // 2 СПОСОБ
+    // 2 СПОСОБ FileChannal
 	start = time.Now()
 	copyFileDest = "copyDir/tekst2.txt"
 	middle := make([]byte, 1024)
@@ -70,34 +70,17 @@ func main() {
         }
 	}
 	duration = time.Since(start).Seconds()
-	fmt.Printf("Время выполнения copyFile3v: %f секунд\n", duration)
+	fmt.Printf("Время выполнения FileChannal: %f секунд\n", duration)
 	runtime.ReadMemStats(&mem)
-	fmt.Printf("Затраты памяти для copyFile3v: %d bytes\n", mem.Alloc)
+	fmt.Printf("Затраты памяти для FileChannal: %d bytes\n", mem.Alloc)
 
-    // 3 СПОСОБ
+    // 3 СПОСОБ Apache
 	start = time.Now()
     duplicate3 := "copyDir/tekst3.txt"
 
     _ = copy.Copy(copyFile, duplicate3)
-	// text, err := os.Open(copyFile)
-	// if err != nil {
-    //     fmt.Println("7 Ошибка чтения файла:", err)
-    //     return
-    // }
-	// defer text.Close()
-	// newFile, err := os.Create(copyFileDest)
-	// if err != nil {
-    //     fmt.Println("8 Ошибка создания нового файла:", err)
-    //     return
-    // }
-	// defer newFile.Close()
-	// _, err = io.Copy(newFile, text)
-	// if err != nil {
-    //     fmt.Println("9 Ошибка копирования в новый файл:", err)
-    //     return
-    // }
 	duration = time.Since(start).Seconds()
-	fmt.Printf("Время выполнения copyFile2v: %f секунд\n", duration)
+	fmt.Printf("Время выполнения Apache: %f секунд\n", duration)
 	runtime.ReadMemStats(&mem)
-	fmt.Printf("Затраты памяти для copyFile2v: %d bytes\n", mem.Alloc)
+	fmt.Printf("Затраты памяти для Apache: %d bytes\n", mem.Alloc)
 }
